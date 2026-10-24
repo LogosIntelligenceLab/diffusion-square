@@ -25,7 +25,7 @@
 1. Clone this repo and `cd` into it.
 
 ```shell
-git clone https://github.com/fudan-zvg/diffusion-square.git
+git clone https://github.com/LogosIntelligenceLab/diffusion-square.git
 cd diffusion-square
 ```
 
